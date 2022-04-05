@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Machine_Learning_Churn_Model.py
